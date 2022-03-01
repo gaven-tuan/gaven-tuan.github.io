@@ -1,0 +1,19 @@
+{
+  "name": "gaven-tuan.github.io",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaven-tuan/gaven-tuan.github.io.git"
+  },
+  "author": "gaven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaven-tuan/gaven-tuan.github.io/issues"
+  },
+  "homepage": "https://github.com/gaven-tuan/gaven-tuan.github.io#readme"
+}
